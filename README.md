@@ -6,7 +6,7 @@ The dashboard reveals a financially strong business with healthy profitability a
 - Excel
 - Power Query
 - Pivot Table
-## Insights and Recommendations
+## INSIGHTS
 1. Overall Business Performance
 - Sales Revenue: $772,769
 - Total Cost: $502,025
@@ -43,7 +43,7 @@ The dashboard reveals a financially strong business with healthy profitability a
 - Wednesday, Friday, and Monday are the strongest revenue days.
 - Tuesday and Saturday are lower-performing days.
 - Insight:Customer activity spikes midweek and at the start of the week. Saturday underperformance might indicate weak weekend traffic or operational issues.
-RECOMMENDATIONS
+## RECOMMENDATIONS
 1. Address the Extremely High Return Rate
 - Almost half of orders being returned is a major business risk.
 - Investigate the following:
