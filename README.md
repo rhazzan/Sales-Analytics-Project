@@ -2,7 +2,7 @@
 
 ## Overview
 The dashboard reveals a financially strong business with healthy profitability and clear top-performing categories and countries. However, the 48% return rate is a critical issue requiring urgent attention. The business also shows strong seasonality and varying day-of-week performance, offering opportunities to optimize marketing and operations.
-##Tools Used
+## Tools Used
 - Excel
 - Power Query
 - Pivot Table
